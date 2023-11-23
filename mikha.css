@@ -1,0 +1,60 @@
+html {
+    scroll-behavior: smooth;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #121212;
+    font-family: 'Poppins';font-size: 22px;
+}
+
+.image-container {
+    background-image: linear-gradient(1turn,#121212,45%,transparent,96%,#12121255),url(https://imgur.com/nzzqMyR.png);
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.opener1 {
+    position: absolute;
+    top: 50%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+    padding: 50px;
+    border-radius: 5px;
+    text-align: left;
+    color: white;
+    white-space: nowrap;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    background: #9AD0EC;
+    border-radius: px;
+}
+
+.under2 {
+    flex: 1 1 0%;
+    place-self: stretch;
+    height: 100vh;
+}
+
+.op2 {
+    position: absolute;
+    top: 50%;
+    right: 25%;
+    transform: translate(20%, 05%);
+    padding: 20px;
+    border-radius: 1px;
+    text-align: center;
+    color: white; 
+}
+
+.outt {
+    display: grid;
+    display: flex;
+   
+}
