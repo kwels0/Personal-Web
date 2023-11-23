@@ -1,2 +1,0 @@
-# PIKMIN  
-Personal Web
