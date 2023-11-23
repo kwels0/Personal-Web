@@ -20,11 +20,11 @@ body {
     height: 100vh;
 }
 
-.opener {
+.opener1 {
     position: absolute;
     top: 50%;
-    left: 50%;
-    transform: translate(-60%, -50%);
+    left: 55%;
+    transform: translate(-50%, -50%);
     padding: 50px;
     border-radius: 5px;
     text-align: left;
@@ -33,11 +33,54 @@ body {
     padding-top: 0px;
     padding-bottom: 0px;
     background: #9AD0EC;
-    border-radius: 7px;
+    border-radius: px;
 }
 
 .under2 {
     flex: 1 1 0%;
     place-self: stretch;
     height: 100vh;
+}
+
+.op2 {
+    position: absolute;
+    top: 50%;
+    right: 25%;
+    transform: translate(20%, 05%);
+    padding: 20px;
+    border-radius: 1px;
+    text-align: center;
+    color: white; 
+}
+
+.projtile1 {
+    display: block;
+    width: 100%;
+    margin-inline: auto;
+    padding-inline-start: 28rem;
+    padding-inline-end: 3rem;
+    max-width: 80rem;
+    border-width: 0px;
+    border-style: solid;
+    box-sizing: border-box;
+}
+
+.con {
+    align-self: center;
+    align-content: center;
+}
+
+.centerr{
+    color: aliceblue;
+    text-align: center;
+    background-color: gray;
+    border-radius: 1rem;
+    border-width: 0.25rem;
+}
+
+.centerr1{
+    color: aliceblue;
+    text-align: center;
+    border-radius: 1rem;
+    border-width: 0.25rem;
 }
