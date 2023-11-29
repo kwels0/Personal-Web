@@ -20,6 +20,10 @@ body {
     height: 100vh;
 }
 
+.next1 {
+    color: #564983;
+}
+
 .opener1 {
     position: absolute;
     top: 50%;
