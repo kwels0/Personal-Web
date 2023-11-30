@@ -126,6 +126,20 @@ body {
     color: whitesmoke;
 }
 
+.hidder1 {
+    white-space: nowrap;
+    padding-inline-start: 0%;
+    padding-inline-end: 0%;
+    background: #564983;
+    color: black;
+    border-radius: 7px;
+    font-weight: bold;
+    width: 40%;
+    font-size: 150%;
+    color: whitesmoke;
+    text-align: center;
+}
+
 .hid {
     white-space: nowrap;
     padding-inline-start: 0%;
@@ -200,4 +214,43 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+}
+
+.gif {
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+.textL {
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+.textR {
+    font-size: 20px;
+    padding-right: 20px;
+}
+
+.container{
+    justify-content: center;
+    display: block;
+    align-items: center;
+    padding: 1px;
+    margin: 0px;
+    margin-left: 42rem;
+}
+
+.typer {
+    width: auto;
+    height: auto;
+}
+
+.comments {
+    justify-content: center;
+    align-items: center;
+    padding: 1px;
+    margin: 0px;
+    margin-left: 50rem;
+    margin-right: 50rem;
+    background-color: white;
 }
